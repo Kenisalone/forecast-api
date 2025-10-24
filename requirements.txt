@@ -1,0 +1,6 @@
+flask
+prophet
+pandas
+numpy
+river
+mysql-connector-python
